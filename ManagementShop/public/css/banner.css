@@ -1,0 +1,110 @@
+.image-banner {
+    width: 100vw;
+    height: auto;
+    object-fit: cover;
+    margin-top: 0;
+}
+
+.image-logo {
+    width: 15vw;
+    margin-left: 60px;
+    margin-top: -8px;
+}
+
+.navbar-collapse {
+    width: 100%;
+    background-color: white;
+    margin-top: -9px;
+}
+
+.navbar-form {
+    width: 100%;
+    position: relative;
+}
+
+.header-top-second-banner.header-desktop {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: white;
+}
+
+.navbar-nav > li {
+    text-align: center;
+    padding-right: 10px;
+}
+
+.navbar-header {
+    z-index: 1;
+    position: relative;
+}
+
+.menu {
+    font-size: 30px;
+    padding-left: 30px;
+}
+
+.btn-default {
+    position: absolute;
+    right: 5px;
+    top: 7px;
+    height: calc(100% - 10px);
+    border: none;
+    background-color: #DC143C;
+    color: white;
+    padding: 5px 25px;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+.form-search {
+    width: 100%;
+    padding: 8px 210px;
+    border-radius: 7px;
+    border: 1px solid #DCDCDC;
+    margin-top: 5px;
+    box-sizing: border-box;
+}
+
+.notification-link {
+    text-align: center;
+    font-size: 12px;
+}
+
+.notification-icon {
+    font-size: 18px;
+    color: #808080;
+}
+
+.national-flag-image {
+    width: 35px;
+    height: 25px;
+}
+
+.languages {
+    position: relative;
+    width: 60px;
+}
+
+.chooselanguage {
+    width: 100%;
+    border-radius: 7px;
+    color: #C0C0C0;
+    border: 1px solid #808080;
+    padding: 5px;
+    margin: 8px;
+}
+
+.navbar-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.navbar-nav > li > a:hover, .navbar-nav > li > a:focus,
+.btn:hover, .btn:focus {
+    background-color: transparent !important;
+    color: inherit !important;
+}

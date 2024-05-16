@@ -1,0 +1,42 @@
+img {
+    max-width: 100%;
+    height: auto;
+    vertical-align: top;
+}
+/* .header{
+    box-sizing: border-box;
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+
+@media (max-width: 996px) {
+    .header{
+        background-color: #FF94CA;
+        text-align: center;
+    }
+}
+
+.top-banner-image{
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+
+@media (max-width: 996px) {
+    .top-banner-image{
+        text-align: center;
+    }
+} */
+
+body, html{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden;
+}
+.image-banner{
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+}
