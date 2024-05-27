@@ -19,6 +19,8 @@ class Product extends Model
         "quantity",
         "description_long",
         "delete_flag",
+        "category_id",
+        "provider_id",
     ];
 
     public $timestamps = true;
