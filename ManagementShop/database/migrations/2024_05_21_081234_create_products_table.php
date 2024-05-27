@@ -15,7 +15,6 @@ return new class extends Migration
             $table->id();
             $table->string('name')->unique();
             $table->string('author');
-            $table->string('publishing_company');
             $table->string('cover_form');
             $table->integer('publishing_year')->nullable();
             $table->string('packaging_size')->nullable();

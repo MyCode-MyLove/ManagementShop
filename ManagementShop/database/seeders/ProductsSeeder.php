@@ -16,7 +16,6 @@ class ProductsSeeder extends Seeder
             [
                 'name' => 'Product 1',
                 'author' => 'Author 1',
-                'publishing_company' => 'Company 1',
                 'cover_form' => 'Hardcover',
                 'publishing_year' => 2020,
                 'packaging_size' => '20x15x3 cm',
@@ -30,7 +29,6 @@ class ProductsSeeder extends Seeder
             [
                 'name' => 'Product 2',
                 'author' => 'Author 2',
-                'publishing_company' => 'Company 2',
                 'cover_form' => 'Paperback',
                 'publishing_year' => 2019,
                 'packaging_size' => '21x14x2 cm',
@@ -45,7 +43,6 @@ class ProductsSeeder extends Seeder
             [
                 'name' => 'Product 3',
                 'author' => 'Author 3',
-                'publishing_company' => 'Company 3',
                 'cover_form' => 'Paperback',
                 'publishing_year' => 2018,
                 'packaging_size' => '20x13x2 cm',
@@ -59,7 +56,6 @@ class ProductsSeeder extends Seeder
             [
                 'name' => 'Product 4',
                 'author' => 'Author 4',
-                'publishing_company' => 'Company 4',
                 'cover_form' => 'Hardcover',
                 'publishing_year' => 2021,
                 'packaging_size' => '22x16x4 cm',
@@ -73,7 +69,6 @@ class ProductsSeeder extends Seeder
             [
                 'name' => 'Product 5',
                 'author' => 'Author 5',
-                'publishing_company' => 'Company 5',
                 'cover_form' => 'Paperback',
                 'publishing_year' => 2017,
                 'packaging_size' => '19x14x1 cm',
@@ -87,7 +82,6 @@ class ProductsSeeder extends Seeder
             [
                 'name' => 'Product 6',
                 'author' => 'Author 6',
-                'publishing_company' => 'Company 6',
                 'cover_form' => 'Hardcover',
                 'publishing_year' => 2022,
                 'packaging_size' => '23x15x3 cm',
@@ -101,7 +95,6 @@ class ProductsSeeder extends Seeder
             [
                 'name' => 'Product 7',
                 'author' => 'Author 7',
-                'publishing_company' => 'Company 7',
                 'cover_form' => 'Paperback',
                 'publishing_year' => 2016,
                 'packaging_size' => '21x14x2 cm',
@@ -115,7 +108,6 @@ class ProductsSeeder extends Seeder
             [
                 'name' => 'Product 8',
                 'author' => 'Author 8',
-                'publishing_company' => 'Company 8',
                 'cover_form' => 'Hardcover',
                 'publishing_year' => 2020,
                 'packaging_size' => '20x13x3 cm',
@@ -129,7 +121,6 @@ class ProductsSeeder extends Seeder
             [
                 'name' => 'Product 9',
                 'author' => 'Author 9',
-                'publishing_company' => 'Company 9',
                 'cover_form' => 'Paperback',
                 'publishing_year' => 2015,
                 'packaging_size' => '21x14x2 cm',
@@ -143,7 +134,6 @@ class ProductsSeeder extends Seeder
             [
                 'name' => 'Product 10',
                 'author' => 'Author 10',
-                'publishing_company' => 'Company 10',
                 'cover_form' => 'Hardcover',
                 'publishing_year' => 2021,
                 'packaging_size' => '22x15x4 cm',
@@ -157,7 +147,6 @@ class ProductsSeeder extends Seeder
             [
                 'name' => 'Product 11',
                 'author' => 'Author 11',
-                'publishing_company' => 'Company 11',
                 'cover_form' => 'Paperback',
                 'publishing_year' => 2019,
                 'packaging_size' => '21x14x1 cm',
@@ -171,7 +160,6 @@ class ProductsSeeder extends Seeder
             [
                 'name' => 'Product 12',
                 'author' => 'Author 12',
-                'publishing_company' => 'Company 12',
                 'cover_form' => 'Hardcover',
                 'publishing_year' => 2018,
                 'packaging_size' => '20x15x3 cm',
@@ -185,7 +173,6 @@ class ProductsSeeder extends Seeder
             [
                 'name' => 'Product 13',
                 'author' => 'Author 13',
-                'publishing_company' => 'Company 13',
                 'cover_form' => 'Paperback',
                 'publishing_year' => 2017,
                 'packaging_size' => '21x13x2 cm',
@@ -199,7 +186,6 @@ class ProductsSeeder extends Seeder
             [
                 'name' => 'Product 14',
                 'author' => 'Author 14',
-                'publishing_company' => 'Company 14',
                 'cover_form' => 'Hardcover',
                 'publishing_year' => 2022,
                 'packaging_size' => '23x14x3 cm',
@@ -213,7 +199,6 @@ class ProductsSeeder extends Seeder
             [
                 'name' => 'Product 15',
                 'author' => 'Author 15',
-                'publishing_company' => 'Company 15',
                 'cover_form' => 'Paperback',
                 'publishing_year' => 2016,
                 'packaging_size' => '20x14x2 cm',
@@ -227,7 +212,6 @@ class ProductsSeeder extends Seeder
             [
                 'name' => 'Product 16',
                 'author' => 'Author 16',
-                'publishing_company' => 'Company 16',
                 'cover_form' => 'Hardcover',
                 'publishing_year' => 2020,
                 'packaging_size' => '22x15x3 cm',
@@ -241,7 +225,6 @@ class ProductsSeeder extends Seeder
             [
                 'name' => 'Product 17',
                 'author' => 'Author 17',
-                'publishing_company' => 'Company 17',
                 'cover_form' => 'Paperback',
                 'publishing_year' => 2015,
                 'packaging_size' => '21x14x1 cm',
@@ -255,7 +238,6 @@ class ProductsSeeder extends Seeder
             [
                 'name' => 'Product 18',
                 'author' => 'Author 18',
-                'publishing_company' => 'Company 18',
                 'cover_form' => 'Hardcover',
                 'publishing_year' => 2021,
                 'packaging_size' => '20x13x4 cm',
@@ -269,7 +251,6 @@ class ProductsSeeder extends Seeder
             [
                 'name' => 'Product 19',
                 'author' => 'Author 19',
-                'publishing_company' => 'Company 19',
                 'cover_form' => 'Paperback',
                 'publishing_year' => 2019,
                 'packaging_size' => '21x14x2 cm',
@@ -283,7 +264,6 @@ class ProductsSeeder extends Seeder
             [
                 'name' => 'Product 20',
                 'author' => 'Author 20',
-                'publishing_company' => 'Company 20',
                 'cover_form' => 'Hardcover',
                 'publishing_year' => 2018,
                 'packaging_size' => '23x15x3 cm',
