@@ -479,7 +479,6 @@
                     <h4 class="modal-title" id="policyModalLabel3" style="text-align: center; color: blue; font-weight: bold;">Chính Sách Đổi Trả</h4>
                 </div>
                 <div class="modal-body" style="font-size: 12px">
-                    <!-- Nội dung Chính Sách Đổi Trả -->
                     <div style="padding-bottom: 10px;">CHÍNH SÁCH ĐỔI TRẢ SẢN PHẨM</div>
                     <div style="padding-bottom: 10px;">Fahasa cam kết bảo vệ quyền lợi của khách hàng khi mua hàng trên Fahasa.com. Trong trường hợp sản phẩm Quý khách nhận được không đúng với đơn đặt hàng hoặc có vấn đề về chất lượng, Quý khách có thể đổi trả sản phẩm theo các điều kiện sau:</div>
 
